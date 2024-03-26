@@ -8,9 +8,7 @@
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:react-hooks/recommended",
-    "plugin:prettier/recommended",
-    "next/core-web-vitals",
-    "next"
+    "plugin:prettier/recommended"
   ],
   "ignorePatterns": ["dist"],
   "parser": "@typescript-eslint/parser",
